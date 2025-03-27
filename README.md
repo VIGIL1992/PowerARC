@@ -1,5 +1,3 @@
-# PowerARC
-
 # Project: Power Arc – Electrical & Industrial Solutions Distributor (Static Website)
 
 Overview
@@ -34,4 +32,4 @@ Developer Contributions
 
     Structured the content to align with Power Arc’s branding and business goals.
 
-Live Demo: https://powerarc.example.com (Replace with actual URL)
+Live Demo: https://demo.pixellmedia.in/power/
